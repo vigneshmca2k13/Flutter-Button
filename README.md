@@ -1,6 +1,6 @@
 # flutter_learning
 
-A new Flutter application.
+Customized floating button widget.
 
 ## Getting Started
 
